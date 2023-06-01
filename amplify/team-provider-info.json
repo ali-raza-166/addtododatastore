@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tododatastoreali-dev-155537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::488065772113:role/amplify-tododatastoreali-dev-155537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::488065772113:role/amplify-tododatastoreali-dev-155537-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tododatastoreali-dev-155537-deployment",
+      "UnauthRoleName": "amplify-tododatastoreali-dev-155537-unauthRole",
+      "StackName": "amplify-tododatastoreali-dev-155537",
+      "StackId": "arn:aws:cloudformation:us-east-1:488065772113:stack/amplify-tododatastoreali-dev-155537/cfde74a0-006a-11ee-a1a3-0e1f0a384537",
+      "AmplifyAppId": "d1qvr6x5wy4ze8"
+    },
+    "categories": {
+      "api": {
+        "tododatastoreali": {}
+      }
+    }
+  }
+}
